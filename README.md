@@ -1,1 +1,1 @@
-# phpGwaCalculator
+# PHPGWACalculator
