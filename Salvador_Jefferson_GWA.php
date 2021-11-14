@@ -102,7 +102,7 @@
             <td>3</td>
             <td>INTRODUCTION TO COMPUTING</td>
             <td>
-                <input type="number" name="CCS101" min="70" max="100"/>
+                <input type="number" name="CCS101" min="70" max="100" required/>
             </td>
         </tr>
         <tr>
@@ -110,7 +110,7 @@
             <td>5</td>
             <td>COMPUTER PROGRAMMING1</td>
             <td>
-                <input type="number" name="CCS102" min="70" max="100"/>
+                <input type="number" name="CCS102" min="70" max="100" required/>
             </td>
         </tr>
         <tr>
@@ -118,7 +118,7 @@
             <td>3</td>
             <td>DRAFRING</td>
             <td>
-                <input type="number" name="EMC101" min="70" max="100"/>
+                <input type="number" name="EMC101" min="70" max="100" required/>
             </td>
         </tr>
         <tr>
@@ -126,7 +126,7 @@
             <td>3</td>
             <td>UNDERSTANDING THE SELF</td>
             <td>
-                <input type="number" name="GEC001" min="70" max="100"/>
+                <input type="number" name="GEC001" min="70" max="100" required/>
             </td>
         </tr>
         <tr>
@@ -134,7 +134,7 @@
             <td>3</td>
             <td>MATHEMATICS IN THE MODERN WORLD</td>
             <td>
-                <input type="number" name="GEC004" min="70" max="100"/>
+                <input type="number" name="GEC004" min="70" max="100" required/>
             </td>
         </tr>
         <tr>
@@ -142,7 +142,7 @@
             <td>2</td>
             <td>PHYSICAL FITNESS AND WELLNESS</td>
             <td>
-                <input type="number" name="PE111" min="70" max="100"/>
+                <input type="number" name="PE111" min="70" max="100" required/>
             </td>
         </tr>
         <tr>
@@ -150,7 +150,7 @@
             <td>3</td>
             <td>NSTP(CWTS)1</td>
             <td>
-                <input type="number" name="NSTP111" min="70" max="100" />
+                <input type="number" name="NSTP111" min="70" max="100" required/>
             </td>
         </tr>
     </table>
